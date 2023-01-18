@@ -16,10 +16,10 @@
 
 
 ## New Features on which I will work
--difficulty level will increase 
--loccation will also change with level
--player can collect coin
--player can select car by using coins
+- difficulty level will increase 
+- loccation will also change with level
+- player can collect coin
+- player can select car by using coins
 
 
 ## If you want to run directly without python setup
